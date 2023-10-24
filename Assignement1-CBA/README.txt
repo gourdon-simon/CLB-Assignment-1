@@ -1,6 +1,7 @@
 Assignment 1: REST WS with Node.js
 
-First Part:
+First Part: Fully functional
+
 Option 1: Download of the CSV file
 - CSV file found in directory of the script
 - access URL on localhost => http://localhost:8080/?date=1894
@@ -19,3 +20,8 @@ Option 1: Download of the CSV file
     Status: 201
 
 (Tested with Postman)
+
+
+Second Part: 
+
+
