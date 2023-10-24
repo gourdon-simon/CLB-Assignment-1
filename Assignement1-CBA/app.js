@@ -6,7 +6,7 @@ var app = express();
 const fs = require('fs');
 const parse = require('csv-parser');
 
-const hostname = '127.0.0.1';
+const hostname = '0.0.0.0';
 const port = 8080;
 const filePath = "./LU1_DF_B1100_1.0_C01.A.csv"
 

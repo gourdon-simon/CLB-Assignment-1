@@ -19,9 +19,7 @@ Option 1: Download of the CSV file
 
     Status: 201
 
-(Tested with Postman)
+(Tested queries with Postman)
 
-
-Second Part: 
 
 
